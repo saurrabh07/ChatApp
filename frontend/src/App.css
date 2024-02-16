@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Lato:ital@1&family=Playfair+Display:wght@700&family=Rubik:wght@400;500;700&family=Sevillana&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.App{
+  min-height: 100vh;
+  display: flex;
+  background-image: url("../public/chatApp-bg.jpg");
+  background-size: cover;
+  background-position: center;
+}
